@@ -1,8 +1,8 @@
 ### Hi there! 👋 I'm Athanasios Oikonomou
 
-🚀 I'm a passionate software developer with over 3 years of experience in the field. Currently, I'm delving into the realms of software development, exploring the intricacies of various technologies.
+🚀 I'm a passionate software developer with over 4 years of experience in the field. Currently, I'm delving into the realms of software development, exploring the intricacies of various technologies.
 
-💻 **Languages & Technologies:** Deluge, JavaScript, CSS, HTML, Node.js, React, Python, Postman, and a strong advocate for writing clean code.
+💻 **Languages & Technologies:** Deluge, JavaScript, CSS, HTML, Node.js, Express.js, React, Python, Postman, and a strong advocate for writing clean code.
 
 🌐 **Expertise:** I specialize in building robust REST APIs and seamless integrations. As a lead developer, I've successfully navigated through multi-year projects, honing my skills in project management and team leadership.
 
